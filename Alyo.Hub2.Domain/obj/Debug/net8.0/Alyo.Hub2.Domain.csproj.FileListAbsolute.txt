@@ -1,0 +1,11 @@
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\bin\Debug\net8.0\Alyo.Hub2.Domain.deps.json
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\bin\Debug\net8.0\Alyo.Hub2.Domain.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\bin\Debug\net8.0\Alyo.Hub2.Domain.pdb
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.AssemblyInfoInputs.cache
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.AssemblyInfo.cs
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\refint\Alyo.Hub2.Domain.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\Alyo.Hub2.Domain.pdb
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Domain\obj\Debug\net8.0\ref\Alyo.Hub2.Domain.dll

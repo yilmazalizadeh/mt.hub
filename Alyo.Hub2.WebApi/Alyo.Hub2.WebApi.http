@@ -1,0 +1,6 @@
+@Alyo.Hub2.WebApi_HostAddress = http://localhost:5220
+
+GET {{Alyo.Hub2.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

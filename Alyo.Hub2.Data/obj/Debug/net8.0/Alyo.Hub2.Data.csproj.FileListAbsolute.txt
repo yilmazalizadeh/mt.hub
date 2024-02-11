@@ -1,0 +1,11 @@
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\bin\Debug\net8.0\Alyo.Hub2.Data.deps.json
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\bin\Debug\net8.0\Alyo.Hub2.Data.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\bin\Debug\net8.0\Alyo.Hub2.Data.pdb
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.AssemblyInfoInputs.cache
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.AssemblyInfo.cs
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.csproj.CoreCompileInputs.cache
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\refint\Alyo.Hub2.Data.dll
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\Alyo.Hub2.Data.pdb
+C:\Users\yaliz\source\repos\Alyo.Hub2\Alyo.Hub2.Data\obj\Debug\net8.0\ref\Alyo.Hub2.Data.dll
